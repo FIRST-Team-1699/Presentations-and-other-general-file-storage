@@ -1,4 +1,4 @@
-# Presentations-and-other-general-file-storage
+# presentations-and-files
 
 This repository will house files such as our team's safty presentation.
 
